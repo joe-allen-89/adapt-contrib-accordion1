@@ -1,8 +1,8 @@
 {
-  "name": "adapt-contrib-accordion1",
+  "name": "adapt-contrib-accordion2",
   "version": "0.0.1",
   "framework": ">=5.14.0",
-  "homepage": "https://github.com/joe-allen-89/adapt-contrib-accordion1",
+  "homepage": "https://github.com/joe-allen-89/adapt-contrib-accordion2",
   "bugs": "https://github.com/joe-allen-89/adapt-contrib-accordion1/issues",
   "component" : "accordion",
   "targetAttribute": "_accordion",
