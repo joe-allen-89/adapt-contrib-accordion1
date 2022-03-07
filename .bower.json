@@ -1,9 +1,9 @@
 {
-  "name": "adapt-contrib-accordion",
+  "name": "adapt-contrib-accordion2",
   "version": "6.0.1",
   "framework": ">=5.14.0",
-  "homepage": "https://github.com/joe-allen-89/adapt-contrib-accordion1",
-  "bugs": "https://github.com/joe-allen-89/adapt-contrib-accordion1/issues",
+  "homepage": "https://github.com/joe-allen-89/adapt-contrib-accordion2",
+  "bugs": "https://github.com/joe-allen-89/adapt-contrib-accordion2/issues",
   "component": "accordion",
   "targetAttribute": "_accordion",
   "displayName": "Accordion",
@@ -20,8 +20,8 @@
     "tag": "v6.0.1",
     "commit": "80693610e3257682740d31bbf5c18c84833db1cd"
   },
-  "_source": "https://github.com/joe-allen-89/adapt-contrib-accordion1.git",
+  "_source": "https://github.com/joe-allen-89/adapt-contrib-accordion2.git",
   "_target": "6.0.1",
-  "_originalSource": "adapt-contrib-accordion",
+  "_originalSource": "adapt-contrib-accordion2",
   "_direct": true
 }
